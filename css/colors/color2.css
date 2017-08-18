@@ -1,0 +1,203 @@
+/*
+* Color Code: #957dff
+*-------------------------------------------------------------------------
+*/
+
+/*Color*/
+.comment-form input[type="submit"],
+.comment-body h4 span,
+.comment-body .default-btn,
+.like-comment a,
+.video-post-popup:hover,
+.video-post-popup:focus,
+.post-pagination li a i,
+.widget ul li a:hover span.pull-left,
+.widget ul li a:focus span.pull-left,
+.widget ul li a span.pull-right,
+.bread-menu li a:hover,
+.bread-menu li a:focus,
+.bread-menu li a i,
+.ticket-contact p span,
+.widget ul li a:hover span.pull-left,
+.widget ul li a:focus span.pull-left,
+.news-meta li a:hover,
+.news-meta li a:focus,
+.post-pagination li a,
+.news-meta li i,
+.address-locate i,
+.owl-nav-arrows .owl-prev:hover:before,
+.owl-nav-arrows .owl-next:hover:before,
+.gallery-content-wrap p,
+.service-icon,
+.home3-title-area .title-icon:hover,
+.home3-slider .owl-dot.active,
+.home3-slider .owl-dot:hover,
+.owl-nav div:hover:before,
+.owl-nav div:focus:before,
+.panel-title a::before,
+.company-mission h5,
+.speaker-social li a,
+.speaker-details h4,
+.funfacts-count p,
+.funfacts-icon,
+.copyright-text a,
+.footer-social li a,
+.news-content h3 a:hover,
+.news-content h3 a:focus,
+.news-date,
+.call-to-content h3,
+.pricing-service-list li i,
+.pricing-icon,
+.secondary-tab-nav li.active a,
+.section-subtitle,
+.title-icon,
+.home2-who-we-are h4,
+.about-icon,
+.arrow-down:hover, 
+.arrow-down:focus,
+.logo a:hover,
+.logo a:focus{
+    color: #957dff;
+}
+/*Background*/
+.circle,
+.main-menu .sub-menu li a:hover, .main-menu .sub-menu li a:focus,
+.fixed-menu .toggle-btn:hover span,
+.comment-form input[type="submit"]:hover,
+.comment-form input[type="submit"]:focus,
+.comment-body .default-btn:hover,
+.comment-body .default-btn:focus,
+.like-comment a:hover,
+.like-comment a:focus,
+.widget .social-widget li a,
+.widget ul li a:hover span.pull-right,
+.widget ul li a:focus span.pull-right,
+.post-pagination li a:hover i,
+.post-pagination li a:focus i,
+.post-pagination li a:hover,
+.post-pagination li a:focus,
+.owl-custom-nav:before,
+.post-link:hover:after,
+.post-link,
+.zoom-in:hover:after,
+.zoom-in,
+.single-service:hover .service-icon,
+.home3-title-area .title-icon,
+.main-menu .default-btn:hover,
+.main-menu .default-btn:focus,
+.app-download-content,
+.speaker-social li a:hover,
+.speaker-social li a:focus,
+.funfacts-count:hover .funfacts-icon,
+.footer-social li a:hover,
+.footer-social li a:focus,
+.contact-area,
+.become-client,
+.client-wrap .title-icon,
+.pricing-table.active .pricing-icon,
+.pricing-table .default-btn,
+.event-btn-img .default-btn:hover,
+.default-btn,
+.title-icon:hover,
+.about-icon:hover,
+.slider-button .default-btn:hover, 
+.slider-button .default-btn:focus, 
+.default-btn.blank:hover, 
+.default-btn.blank:focus {
+    background: #957dff;
+}
+@media screen and (max-width: 767px){
+    .main-menu > ul{
+        background: #957dff;
+    }
+}
+
+
+/*Border Color*/
+.fixed-menu .toggle-btn:hover,
+.comment-form input[type="submit"]:hover,
+.comment-form input[type="submit"]:focus,
+.comment-body .default-btn:hover,
+.comment-body .default-btn:focus,
+.comment-form input:focus, .comment-form textarea:focus,
+.social-share-btn .speaker-social li a:hover,
+.social-share-btn .speaker-social li a:focus,
+.like-comment a:hover,
+.like-comment a:focus,
+.widget ul li a:hover span.pull-right,
+.widget ul li a:focus span.pull-right,
+.post-pagination li a:hover i,
+.post-pagination li a:focus i,
+.post-pagination li a:hover,
+.post-pagination li a:focus,
+.news-img .speaker-social li a:hover,
+.news-img .speaker-social li a:focus,
+.single-service:hover .service-icon,
+.home3-title-area .title-icon,
+.main-menu .default-btn:hover,
+.main-menu .default-btn:focus,
+.owl-nav div:hover:before,
+.owl-nav div:focus:before,
+.speaker-social li a:hover,
+.speaker-social li a:focus,
+.footer-social li a:hover,
+.footer-social li a:focus,
+.client-wrap .title-icon,
+.event-btn-img .default-btn:hover,
+.default-btn,
+.slider-button .default-btn:hover, 
+.slider-button .default-btn:focus, 
+.default-btn.blank:hover, 
+.default-btn.blank:focus,
+.arrow-down:hover, .arrow-down:focus {
+    border-color: #957dff;
+}
+.title-icon:hover,
+.about-icon:hover {
+    border-color: #957dff !important;
+}
+
+/*Border Image*/
+.gallery-single:after{
+    -moz-border-image: -moz-linear-gradient(top, rgb(90,52,255) 0%, rgb(167,255,0) 100%) 10;
+    -webkit-border-image: -webkit-linear-gradient(top, rgb(90,52,255) 0%, rgb(167,255,0) 100%) 10;
+    border-image: linear-gradient(to bottom, rgb(90,52,255) 0%, rgb(167,255,0) 100%) 10;
+}
+
+/*Gradient*/
+.breadcrumb-section::after,
+.ticket-widget:before,
+.widget-recent-post:before,
+.home3-testimonial .testimonial-wrap:hover,
+.home3-pricing.active .pricing-heading-wrap,
+.venue-tab-nav li a::before,
+.news-img::before,
+.carousel-indicators li.active .carousel-nav-img::before,
+.carousel-nav-img::before,
+.app-overlay,
+.event-overlay,
+.event-btn-img:before,
+.primary-tab-nav li a::before,
+.client-overlay,
+.slider-overlay {
+    background: rgb(90,52,255);
+    background: -moz-linear-gradient( 65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+    background: -webkit-linear-gradient( 65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+    background: -ms-linear-gradient( 65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+}
+.speaker-half-img:after{
+    background: rgb(90,52,255);
+    background: -moz-linear-gradient( -65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+    background: -webkit-linear-gradient( -65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+    background: -ms-linear-gradient( -65deg, rgb(167,255,0) 0%, rgb(90,52,255) 100%);
+}
+/*Rgba Background*/
+.post-link:after,
+.zoom-in:after,
+.home3-title-area .title-icon:after{
+    background: rgba(149,125,255,.30);
+}
+/*Rgba Color*/
+.testimonial-content p::after{
+    color: rgba(149,125,255,.15);
+}
